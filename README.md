@@ -5,9 +5,9 @@ The analysis started with data cleaning and removal of duplicate data from 14 co
 
 This analysis sums up the total accidents on Nigerian highway in the 36 states and Federal capital territory between   **Q4 2020 - Q1 2024**. Over this period, a total of **_43262_** crashes involving **_52146_** vehicles, **_21031_** deaths and **_127237_** injured victims, and **_184_** cases factored as poor weather.
 
-![Dashboard page 1](Image\pg1.png)
+![Dashboard page 1](Image/pg1.png)
 
-![Dashboard page 2](Image\pg2.png)
+![Dashboard page 2](Image/pg2.png)
 
 
 
